@@ -21,6 +21,8 @@ let myobj={
 }
 //function
 const myFunction = function(){
-    console.log("hello wirld");
+    console.log("hello world");
 }
 console.log(typeof myobj);
+//************************** memory**********
+// Stack use in primitive and heap use in non primitive type 
